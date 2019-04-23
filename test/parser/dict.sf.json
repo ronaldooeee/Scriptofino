@@ -1,0 +1,19 @@
+{
+    "statements": [{
+        "ids": "lista",
+        "initializers": {
+            "members": [{
+                "key": { "value": "\"Hello\"" },
+                "value": { "value": "\"Hola\"" }
+            },
+            {
+                "key": {"value": "\"Goodbye\""},
+                "value": { "value": "\"Adiós\""}
+            },
+            {
+                "key": {"value": "\"Welcome\""},
+                "value": { "value": "\"Bienvenido\""}
+            }]
+        }
+    }]
+}
